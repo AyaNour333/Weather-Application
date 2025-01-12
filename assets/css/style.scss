@@ -415,6 +415,9 @@ p{
                                 }
                                 &:last-child{
                                     font-size: 35px;
+                                    @media (max-width:575) {
+                                        font-size: 17px;
+                                    }
                                 }
                             }
                         }

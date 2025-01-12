@@ -386,7 +386,7 @@ p {
 }
 @media (max-width: 575px) {
   .wrapper .content .weatherInfo .todays-highlights .box .result div span:last-child {
-    font-size: 17px;
+    font-size: 17px !important;
   }
 }
 .wrapper .content .weatherInfo .todays-highlights .box .result-2 i {
